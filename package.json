@@ -2,7 +2,7 @@
   "name": "coding-challenge-full-stack-js",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3000",
+  "author": "Dzenis H.",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -29,7 +29,8 @@
     "test-app": "react-scripts test --watchAll=false",
     "test-api": "ava api/tests/*.js",
     "eject": "react-scripts eject",
-    "start-x": "set PORT=3006 && react-scripts start"
+    "start-x": "set PORT=3006 && react-scripts start",
+    "deploy": "npm run build && firebase deploy"
   },
   "nodemonConfig": {
     "ignore": [
