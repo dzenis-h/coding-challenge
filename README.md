@@ -2,7 +2,7 @@
 ## Image Search App 📷
 
 ## Overview 📄
-This small, silly, non-optimized project was built as part of the "coding-challenge-full-stack-js" challenge. Original challenge can be found inside of [this repo](https://github.com/crewfire/coding-challenge-full-stack-js). I've decided to use the Unsplash API instead of Flickr. Ops, my bad 🤓
+This small, silly, non-optimized project was built as part of the "coding-challenge-full-stack-js" challenge. Original challenge can be found inside of [this repo](https://github.com/crewfire/coding-challenge-full-stack-js). I've decided to use the `Unsplash API` instead of **Flickr**. Ops, my bad 🤓
 
 ![App screenshot](https://drive.google.com/uc?export=view&id=1yGcWAOhr_XlfMpscB00zev_n4w6olYyT)
 
@@ -22,7 +22,6 @@ To start the frontend & backend use `npm start`.
 The frontend uses `create-react-app` as dev tool. All requests to `/api/*` are proxied to `http://localhost:3001/` which is the port the backend listens on.
 
 ## Purpose 🎯
-## Purpose 🎯
 Evaluate your coding abilities and experience. Get a feel for how you would solve a problem, what you value, how you'd organize code, stylistic choices. Understand how you design a solution. What "they" will be looking at: 👀
 - Whether the solution meets requirement and how well it does.
 - Overall solution design.
@@ -40,7 +39,7 @@ Contributions are always welcome! Let me see how would you approach this challen
 This project is licensed under the MIT License. You can find more information about it [here](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing).
 
 ## Deployed 🚀
-You can visit the deployed version of the app [here](https://biggahd.github.io/ReactiveContacts).
+You can visit the deployed version of the app [here](https://coding-challenge-2022.web.app).
 
 ## Credits 👾
 Image Search App was created by [Dzenis H.](https://www.dzenis.tech)
