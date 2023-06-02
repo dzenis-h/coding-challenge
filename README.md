@@ -1,5 +1,4 @@
-Thank you for providing the link. Here is a ReadMe.md file for the currently open repository with the updated image link using the "Export=view" method:
-
+##
 ## Image Search App 📷
 
 ## Overview 📄
