@@ -23,9 +23,8 @@ To start the frontend & backend use `npm start`.
 The frontend uses `create-react-app` as dev tool. All requests to `/api/*` are proxied to `http://localhost:3001/` which is the port the backend listens on.
 
 ## Purpose 🎯
-Evaluate your coding abilities and experience. Get a feel for how you would solve a problem, what you value, how you'd organize code, stylistic choices. Understand how you design a solution.
-
-## What we'll be looking at 👀
+## Purpose 🎯
+Evaluate your coding abilities and experience. Get a feel for how you would solve a problem, what you value, how you'd organize code, stylistic choices. Understand how you design a solution. What "they" will be looking at: 👀
 - Whether the solution meets requirement and how well it does.
 - Overall solution design.
 - Coding standard, comments and style.
@@ -44,7 +43,7 @@ This project is licensed under the MIT License. You can find more information ab
 ## Deployed 🚀
 You can visit the deployed version of the app [here](https://biggahd.github.io/ReactiveContacts).
 
-## Credits 👥
+## Credits 👾
 Image Search App was created by [Dzenis H.](https://www.dzenis.tech)
 
 If you like what you see, please consider giving a ⭐️
