@@ -1,9 +1,9 @@
-Here is a ReadMe.md file for the currently open repository:
+Thank you for providing the link. Here is a ReadMe.md file for the currently open repository with the updated image link using the "Export=view" method:
 
 ## Image Search App 📷
 
 ## Overview 📄
-This small, silly, non-optimized project was built as part of the "coding-challenge-full-stack-js" challenge. Original challenge can be found inside of [this repo](https://github.com/crewfire/coding-challenge-full-stack-js). I've decided to use the `Unsplash API` instead of `Flickr`. Ops, my bad 🤓
+This small, silly, non-optimized project was built as part of the "coding-challenge-full-stack-js" challenge. Original challenge can be found inside of this repo: https://github.com/crewfire/coding-challenge-full-stack-js. I've decided to use the Unsplash API instead of Flickr. Ops, my bad 🤓
 
 ![App screenshot](https://drive.google.com/uc?export=view&id=1yGMXKex83m0WoubKvBbD9sf6Zb3BUclT)
 
@@ -44,7 +44,7 @@ This project is licensed under the MIT License. You can find more information ab
 ## Deployed 🚀
 You can visit the deployed version of the app [here](https://biggahd.github.io/ReactiveContacts).
 
-## Credits 👾
+## Credits 👥
 Image Search App was created by [Dzenis H.](https://www.dzenis.tech)
 
 If you like what you see, please consider giving a ⭐️
