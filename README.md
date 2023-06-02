@@ -1,47 +1,47 @@
-# Full-Stack JavaScript Developer Code Challenge
+##
+## Image Search App 🖼️
 
-## How to use this repo
+## Overview 📄
+This small, silly, non-optimized project was built as part of the "coding-challenge-full-stack-js" challenge. The original challenge can be found inside of [this repo](https://github.com/crewfire/coding-challenge-full-stack-js). Also, I've decided to use the Unsplash API instead of Flickr. Ops, my bad 🤓
 
+![App screenshot](https://drive.google.com/uc?export=view&id=1yGMXKex83m0WoubKvBbD9sf6Zb3BUclT)
+
+## Tech Stack 💻
+
+| Tech | Docs | Description |
+| --- | --- | --- |
+| ![React Logo](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) | [React](https://reactjs.org/docs/getting-started.html) | A JavaScript library for building user interfaces |
+| ![RESTful API Logo](https://img.shields.io/badge/-RESTful_API-000000?logo=api&logoColor=white&style=for-the-badge) | [RESTful API](https://developer.mozilla.org/en-US/docs/Glossary/REST) | An architectural style for building web services |
+| ![Unsplash API Logo](https://img.shields.io/badge/-Unsplash_API-000000?logo=unsplash&logoColor=white&style=for-the-badge) | [Unsplash API](https://unsplash.com/documentation) | An API that provides access to millions of high-resolution photos |
+
+## How to use this repo 🛠️
 Make sure to install the dependencies using `npm install` beforehand.
 
 To start the frontend & backend use `npm start`.
 
-The frontend uses `create-react-app` as dev tool. All requests to `/api/*` are
-proxied to `http://localhost:3001/` which is the port the backend listens on.
+The frontend uses `create-react-app` as dev tool. All requests to `/api/*` are proxied to `http://localhost:3001/` which is the port the backend listens on.
 
-## Purpose
+## Contributing 🤝
+Contributions are always welcome! Let me see how would you approach this challenge (take a look at the link provided inside of the "About" component or if you would like to contribute to this project, please follow these steps:
+1. Fork the repository. 🍴
+2. Create a new branch. 🌵
+3. Make your changes and test them thoroughly. 👨‍💻
+4. Submit a pull request. ✔
 
-- Evaluate your coding abilities and experience
-- Get a feel for how you would solve a problem, what you value, how you'd organize code, stylistic choices
-- Understand how you design a solution
+## Purpose 🎯
+Evaluate your coding abilities and experience. Get a feel for how you would solve a problem, what you value, how you'd organize code, stylistic choices. Understand how you design a solution. What "they" will be looking at: 👀
+- Whether the solution meets requirement and how well it does.
+- Overall solution design.
+- Coding standard, comments and style.
+- Use of source control.
 
-## What we'll be looking at
+## License ⚖️
+This project is licensed under the MIT License. You can find more information about it [here](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing).
 
-- Wether the solution meets requirement and how well it does
-- Overall solution design
-- Coding standard, comments and style
-- Use of source control
-- Testing
+## Deployed 🚀
+You can visit the deployed version of the app [here](https://biggahd.github.io/ReactiveContacts).
 
-## Intructions
+## Credits 👨‍💻
+Image Search App was created by [Dzenis H.](https://www.dzenis.tech)
 
-1. Start by forking this repo [https://github.com/crewfire/coding-challenge-full-stack-js](https://github.com/crewfire/coding-challenge-full-stack-js) to save time on setup (or start from scratch if you wish)
-2. Spend about 1-3 hours working on this (the pre-configured repo should help with that) 
-3. Send us a link to a public GitHub repository with your code  (or share a private one with the username `kiasaki`)
-
-## Challenge: Flickr feed viewer and search
-
-Write a simple web application that reads data from Flickr's public feeds and displays the images on the page to the user. Please check the Flickr API documentation from the following URL:
-
-- Documentations: [https://www.flickr.com/services/feeds/](https://www.flickr.com/services/feeds/)
-- Example Response: [https://api.flickr.com/services/feeds/photos_public.gne?format=json](https://api.flickr.com/services/feeds/photos_public.gne?format=json)
-
-### Details
-
-- Write a web application - backend built using JavaScript/NodeJS/ExpressJS and frontend developed using React.
-- On page load the applications should load the public feed images in either a list or grid view
-- The user should be able to enter a keyword in a search box and click on a search button and the app should show images with the relevant tags
-- Use any other third party library of your choice if needed
-- For extra points, structure the backend as the api endpoint needed was part of a much larger application that required more organization than a one file express app would
-
-You can use any CSS library to make your app look better
+If you like what you see, please consider giving a ⭐️
