@@ -1,5 +1,5 @@
 ##
-## Image Search App 📷
+## Image Search App 🔍
 
 ## Overview 📄
 This small, silly, non-optimized project was built as part of the "coding-challenge-full-stack-js" challenge. Original challenge can be found inside of [this repo](https://github.com/crewfire/coding-challenge-full-stack-js). I've decided to use the `Unsplash API` instead of **Flickr**. Ops, my bad 🤓
